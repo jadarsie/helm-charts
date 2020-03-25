@@ -2,7 +2,15 @@ apiVersion: v1
 entries:
   aks-helloworld:
   - apiVersion: v1
-    created: "2020-03-01T11:48:04.145357-08:00"
+    created: 2020-03-25T16:39:32.5468524-07:00
+    description: A Helm chart for Kubernetes
+    digest: 6b740c0804c008f03f68cda500e08da51c13e4548716a8d64946c299da8e1c83
+    name: aks-helloworld
+    urls:
+    - https://raw.githubusercontent.com/jadarsie/helm-charts/master/docs/aks-helloworld-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v1
+    created: 2020-03-25T16:39:32.5468524-07:00
     description: A Helm chart for Kubernetes
     digest: f21e5e8caf09d9b67466a571d7275703986dd6b87573492b47914fe180d01a70
     name: aks-helloworld
@@ -10,11 +18,11 @@ entries:
     - https://raw.githubusercontent.com/jadarsie/helm-charts/master/docs/aks-helloworld-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
-    created: "2020-03-01T11:48:04.142084-08:00"
+    created: 2020-03-25T16:39:32.5468524-07:00
     description: A Helm chart for Kubernetes
     digest: f4eb20e7116b24c4825861e6ff6f4303bbe83bcee4a7b2b6ea9fe6929852f34d
     name: aks-helloworld
     urls:
     - https://raw.githubusercontent.com/jadarsie/helm-charts/master/docs/aks-helloworld-0.1.0.tgz
     version: 0.1.0
-generated: "2020-03-01T11:48:04.140913-08:00"
+generated: 2020-03-25T16:39:32.5468524-07:00
